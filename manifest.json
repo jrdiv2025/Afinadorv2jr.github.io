@@ -2,12 +2,11 @@
   "background_color": "#ffffff",
   "dir": "ltr",
   "display": "standalone",
-  "name": "https://jrdiv2025.github.io/Afinadorv2jr.github.io/",
+  "name": "jrdiv2025.github",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Afinadorjr2",
+  "short_name": "jrdiv2025.github",
   "start_url": "/",
   "theme_color": "#ffffff",
-  "id": "Afinadorjr2 ",
-  "description": "Afinador de violão."
+  "description": "Teste"
 }
